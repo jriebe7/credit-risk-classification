@@ -3,12 +3,12 @@
 The purpose of this analysis was to look at credit lending data and determine if a logistic regression model would be a good option to use in determining creditworthiness of borrowers
 
 For healthy loan predictions the model produced the following:
--Precision: 100%
--Recall: 99%
+  -Precision: 100%
+  -Recall: 99%
 
 For high-risk loan predictions the model produced the following:
--Precision: 84%
--Recall:  94%
+  -Precision: 84%
+  -Recall:  94%
 
 Overall accuracy score: 92%
 
