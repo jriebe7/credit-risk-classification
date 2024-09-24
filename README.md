@@ -10,7 +10,7 @@ For high-risk loan predictions the model produced the following:
 -Precision: 84%
 -Recall:  94%
 
-The overall over-all accuracy score was 92%
+Overall accuracy score: 92%
 
 # Summary
 
