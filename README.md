@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Analysis Report
 
 # The purpose of this analysis was to look at credit lending data and determine if a logistic regression model would be a good option to use in determining creditworthiness of borrowers
 
